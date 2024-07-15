@@ -26,13 +26,10 @@
 - Проект должен иметь следующую структуру:
 
 
-![alt text](https://i.ibb.co/2gypYxS/demo-maven-pro.jpg)
-
-или для данного проекта 
-
-![alt text](https://i.ibb.co/WVgkWk5/demo-2-maven-pro.jpg)
+![alt text](https://i.ibb.co/TtsLKF7/SB-2.jpg)
 
 
+<br><br>
 
 3. Настройка POM файла:
 
@@ -42,7 +39,7 @@
 
 4. Создание главного класса приложения
 
-- Создать файл DemoApplication.java в директории ```src/main/java/org/example/demo/```
+- Создать файл Application.java в директории ```src/main/java/org/example/demo/```
 
 5. Создание контроллера
 
@@ -54,7 +51,7 @@
 
 7. Запуск приложения
 
-- Запустить проект, запустив главный класс DemoApplication.java.
+- Запустить проект, запустив главный класс Application.java.
 
 - Открыть браузер и перейти по адресу http://localhost:8080 , где должна открыться страница с заголовком приветствия.
 
@@ -84,8 +81,8 @@ mvn install
 
 4. Запуск приложения
 
-- Найти класс DemoApplication в структуре проекта.
-- Щелкнуть правой кнопкой мыши на DemoApplication и выбрать "Run 'DemoApplication.main()'".
+- Найти класс Application в структуре проекта.
+- Щелкнуть правой кнопкой мыши на Application и выбрать "Run 'Application.main()'".
 
 5. Проверка
 
